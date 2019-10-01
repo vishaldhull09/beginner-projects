@@ -57,6 +57,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Pomodoro Timer](#Pomodoro-Timer)
 - [Scarne's Dice](#scarnes-dice)
 - [GoogleCase](#GoogleCase)
+- [Movie of the day](#movie-of-the-day)
 
 ## Projects
 
@@ -404,6 +405,13 @@ Turn-based dice game where players score points by rolling a die and then: if th
     - Sentence can be entered with any number of spaces.
 
 Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
+
+### Movie of the day
+
+- The app makes use of [OMDb REST API](https://www.omdbapi.com/) in order to fetch a random movie
+- Every time the user opens the app, the API gets queried in order to fetch the random movie
+- The app can also store (in the browser cache or the phone local storage) which movies have already been
+shown to the user so that it can exclude them from the recommendation sub-system.
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
