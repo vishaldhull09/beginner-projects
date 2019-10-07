@@ -26,6 +26,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 ## Project List
 *Projects are somewhat ordered by increasing difficulty.*
 - [99 Bottles](#99-bottles)
+- [Armstrong Number](#Armstrong-Number)
 - [Magic 8 Ball](#magic-8-ball)
 - [Pythagorean Triples Checker](#pythagorean-triples-checker)
 - [Rock Paper Scissors Game](#rock-paper-scissors-game)
@@ -66,6 +67,14 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
+
+### Armstrong Number
+- Learn about armstrong numbers [here](https://en.wikipedia.org/wiki/Narcissistic_number).
+- Define a function that allows the user to check whether a given number is armstrong number or not.
+- Hint: To do this, first determine the number of digits of the given number. Call that n. Then take every digit in the number and raise it to the nth power. Add them, and if your answer is the original number then it is an Armstrong number.
+- Example: Take 1634. Four digits. So, 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634. So 1634 is an Armstrong number.
+- Tip: All single digit numbers are Armstrong numbers.
+
 
 ### Magic 8 Ball
 - Simulate a magic 8-ball.
