@@ -455,6 +455,7 @@ shown to the user so that it can exclude them from the recommendation sub-system
 - [sanveg-rane](https://github.com/sanveg-rane-13/begineer-project-solutions)
 - [Ankit-Gupta](https://github.com/i-ankit25/begineer-project-solutions)
 - [vishaldhull09](https://github.com/vishaldhull09/beginner-project-solution)
+- [007vedant](https://github.com/007vedant/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
