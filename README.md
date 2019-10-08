@@ -59,6 +59,8 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Scarne's Dice](#scarnes-dice)
 - [GoogleCase](#GoogleCase)
 - [Movie of the day](#movie-of-the-day)
+- [Website Scraper / Analyzer](#website-scraper--analyzer)
+
 
 ## Projects
 
@@ -421,6 +423,21 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - Every time the user opens the app, the API gets queried in order to fetch the random movie
 - The app can also store (in the browser cache or the phone local storage) which movies have already been
 shown to the user so that it can exclude them from the recommendation sub-system.
+
+
+### Website Scraper / Analyzer 
+
+- Make an app that scrapes the content of a website (it's produced HTML code)
+- The app can then check for the absence of important HTML tags for SEO,
+missing alt tags on images, and whether the page has SEO meta tags
+- The app can be made in various languages that support web scraping (or have a library to
+do so), like Python and Java.
+- Then the app can give/subtract points and create an overall score.
+- You will learn: 
+    - How a web scraper works
+    - How to traverse the HTML DOM and select elements
+    - What are the important SEO tags and techniques in a web page
+    
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
